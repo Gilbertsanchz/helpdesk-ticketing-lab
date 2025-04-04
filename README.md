@@ -64,3 +64,4 @@ These tickets are great to recreate manually to simulate helpdesk workflows:
 - `.env.example` (rename to `.env`)
 - `README.md`
 - `screenshots/` (drop in your .pngs for GitHub)
+- fix: corrected admin login credentials
