@@ -2,7 +2,7 @@
 
 This is a ready-to-go osTicket deployment lab with:
 
-- ✅ Admin account (admin / admin123)
+- ✅ Admin account (ostadmin / Admin1)
 - ✅ Practice tickets to simulate real-world support
 - ✅ Dockerized setup (MySQL + osTicket)
 - ✅ Screenshots for GitHub/portfolio
