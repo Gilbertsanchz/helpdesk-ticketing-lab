@@ -19,7 +19,7 @@ This is a ready-to-go osTicket deployment lab with:
 3. Visit:  
    - End User Portal → [http://localhost:8080](http://localhost:8080)  
    - Admin Panel → [http://localhost:8080/scp](http://localhost:8080/scp)  
-   - Login → `admin / admin123`
+   - Login → `ostadmin / Admin1`
 
 ---
 
